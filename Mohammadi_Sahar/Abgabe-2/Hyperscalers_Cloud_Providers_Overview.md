@@ -45,6 +45,8 @@ Hyperscaler betreiben riesige Rechenzentren, in denen Millionen von Servern effi
 | OVHcloud	          |  Frankreich, EU   |  EU	Preis-Leistungs-Verhältnis, EU-Rechenzentren	|  VPS, Public Cloud	        |  DSGVO-konform	|  Europäischer Anbieter
 
 ## 6. Architektur: Technische Darstellung
+![Hyperscaler](assets/Hyperscaler.png)
+
 ### Beschreibung:
 •	Die oberste Schicht bildet die globale Infrastruktur (Regionen und Zonen).
 •	Rechenzentren bestehen aus tausenden Servern.
